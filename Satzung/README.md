@@ -97,7 +97,7 @@ Satzung der Vereinigung der Helfer und Förderer des Technischen Hilfswerks Bern
 § 5 Beiträge und Spenden
 ------------------------
 
-1. Die Mitglieder zahlen einen jährlichen Beitrag, der von der Mitgliederversammlung festgelegt wird. Es muss gewährleistet sein, dass die dem Verein obliegende Beitragsverpflichtungen gegenüber der THW-Landeshelfervereinigung Sachsen-Anhalt e.V. und der THW-Jugend Berlin, Brandenburg, Sachsen-Anhalt e.V. befriedigt werden kann.
+1. Von den Mitgliedern werden Geldbeiträge erhoben. Die Höhe dieser Zahlungen, die Fälligkeit, die Art und Weise der Zahlung und zusätzliche Gebühren bei Zahlungsverzug oder Verwendung eines anderen als des beschlossenen Zahlungsverfahrens regelt eine Beitragsordnung, die von der Mitgliederversammlung beschlossen wird. Die Beitragsordnung ist nicht Satzungsbestandteil. Sie wird den Mitgliedern in der jeweils aktuellen Fassung durch Aushang im Objekt bekanntgegeben. Es muss gewährleistet sein, dass die dem Verein obliegende Beitragsverpflichtungen gegenüber der THW-Landeshelfervereinigung Sachsen-Anhalt e.V. und der THW-Jugend Berlin, Brandenburg, Sachsen-Anhalt e.V. befriedigt werden kann.
 
 2. Der Verein ist berechtigt, die Erhebung der Umlagen zu beschließen.
 
@@ -178,13 +178,13 @@ Die Organe des Vereins sind:
 
 2. Die Einberufung erfolgt schriftlich unter Angabe einer Tagesordnung. Das Einberufungsschreiben soll im Regelfall zwei Wochen vor dem anberaumten Versammlungstermin abgesandt sein.
 
-3. Jeder Teilnehmer hat nur eine Stimme. Eine Vertretung im Stimmrecht ist unzulässig.
+3. Jeder Teilnehmer hat nur eine Stimme. Stimmberechtig ist jedes Mitglied, das das 16. Lebensjahr vollendet hat. Eine Vertretung im Stimmrecht ist unzulässig.
 
 4. Die Mitgliederversammlung ist beschlussfähig, wenn mindestens 20% der Stimmberechtigten anwesend sind. Bei Beschlussunfähigkeit ist spätestens binnen einem Monat eine erneute Mitgliederversammlung einzuberufen, diese ist stets beschlussfähig.
 
 5. Jeder Stimmberechtigte und jede mit beratender Stimme ausgestattete Person, kann Anträge an die Mitgliederversammlung richten. Die Anträge müssen bis zum Beginn der jeweiligen Mitgliederversammlung schriftlich gestellt und über den Vorstand eingereicht werden. Sie müssen spätestens auf der übernächsten auf den Antragseingang folgenden Sitzung behandelt werden.
 
-6. Die Mitgliederversammlung beschließt mit der Mehrheit der abgegebenen Stimmen, soweit die Satzung nichts anderes bestimmt. Stimmenthaltung gilt nicht als Ablehnung. Bei Stimmengleichheit gilt der Antrag als abgelehnt. Eine Satzungsänderung ist nur mit 2/3 Mehrheit möglich, die Auflösung ist nur mit einer 4/5 Mehrheit möglich.
+6. Die Mitgliederversammlung beschließt mit der Mehrheit der abgegebenen Stimmen, soweit die Satzung nichts anderes bestimmt. Stimmenthaltung gilt nicht als Ablehnung. Bei Stimmengleichheit gilt der Antrag als abgelehnt. Eine Satzungsänderung ist nur mit 2/3 Mehrheit und die Auflösung ist mit einer 4/5 Mehrheit der stimmberechtigten Mitglieder möglich.
 
 7. Wahlen sind geheim, sofern nicht einstimmig etwas anderes beschlossen wird. Sie erfolgen in getrennter Abstimmung für jedes Amt. Eine Wiederwahl ist zulässig. Scheidet ein Vorstandsmitglied während der Amtsperiode aus, so ist auf der nächsten Versammlung eine Ersatzwahl für diese durchzuführen.
 
